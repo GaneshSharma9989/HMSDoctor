@@ -1,0 +1,9 @@
+img.card-img-top {
+    height: 300px;
+    width: 100%;
+}
+
+select.form-select.specilaty{
+    align-content: end !important;
+    margin: 0 0 0 1100px;
+}
